@@ -19,7 +19,7 @@ This repository contains my personal configuration and setup for MacOS Sonoma. F
 
 ## Pre-Installation
 
-On initial startup, I disable **ALL** possible features (such as Location Services, Touch ID, etc.), and refuse to use Apple account at all. I don't need any synchronization between devices and I only need my machine to work properly and nothing more. It may be inconvenient for you, but here I am only describing my idea of OS configuration.
+On initial startup, I disable **ALL** possible features (such as Location Services, Touch ID, etc.), and refuse to use Apple account at all. I don't need any synchronization between devices and I only need my machine to work properly and nothing more. It may be inconvenient for you, but here I am only describing my vision of OS configuration.
 
 ## System Settings
 
